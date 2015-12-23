@@ -1,0 +1,22 @@
+body{
+  background-color: white;
+}
+
+div{
+  display:flex;
+  flex-flow:colum  nowrap;
+  background-color: black;
+}
+
+button{
+  background: blue;
+  color: white;
+  flex: 0 0 300px;
+  font-size: 60px;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  transition: width 1s;
+
+}

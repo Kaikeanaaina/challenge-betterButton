@@ -1,0 +1,24 @@
+{
+  "name": "challenge-betterButton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaikeanaaina/challenge-betterButton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaikeanaaina/challenge-betterButton/issues"
+  },
+  "homepage": "https://github.com/Kaikeanaaina/challenge-betterButton#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
